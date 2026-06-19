@@ -30,3 +30,8 @@ src/Main.java
 
 ### Mac OS ###
 .DS_Store
+/.idea/.gitignore
+/coding-test.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
